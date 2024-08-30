@@ -38,7 +38,7 @@ App available here: https://convert-mips.vercel.app/
 
 ## Contributing
 
-Please read it for your first contributing
+Please read it for your first contribution
 https://github.com/firstcontributions/first-contributions/blob/main/translations/README.vn.md
 
 Database: ./lib/actions/Information_db.ts
