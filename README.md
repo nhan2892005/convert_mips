@@ -46,3 +46,9 @@ Database: ./lib/actions/Information_db.ts
 Algo: ./lib/actions/convert.ts
 
 This is two file need improve. For others, please check source.
+
+## References
+
+Tiago Bozzetti, Ellie Easse & Chau Tieu - CSCI 320 - Computer Architecture - Bucknell University
+
+<img src=https://www.eg.bucknell.edu/~csci320/mips_web/images/tiago.jpg width=3% alt=Tiago Bozzetti /><img src=https://www.eg.bucknell.edu/~csci320/mips_web/images/ellie.jpg width=3% alt=Ellie Easse /><img src=https://www.eg.bucknell.edu/~csci320/mips_web/images/chau.jpg width=3% alt=Chau Tieu />
