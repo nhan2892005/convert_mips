@@ -39,3 +39,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Please read it for your first contributing
 https://github.com/firstcontributions/first-contributions/blob/main/translations/README.vn.md
+
+Database: ./lib/actions/Information_db.ts
+
+Algo: ./lib/actions/convert.ts
+
+This is two file need improve. For others, please check source.
